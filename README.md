@@ -31,7 +31,7 @@
 - #### [4] **[Benutze den JS Code](https://github.com/Boomtrexx/YouTubeFluent/blob/main/theme/script.js "Benutze den JS Code").**
 
 ## VORSCHAU:
-<img src="https://ibb.co/R0qTw60" />
+<img src="https://imgur.com/sKb2ll2" />
 
 ## Credits:
 
