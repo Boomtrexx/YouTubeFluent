@@ -28,7 +28,7 @@
 
 - #### [3] **[Benutze den CSS-Code](https://github.com/Boomtrexx/YouTubeFluent/blob/main/theme/style.css "Benutze den CSS Code").**
 
-- #### [4] **[Benutze den JS Code](https://github.com/LawOff/YouTubeFluent/blob/main/theme/script.js "Benutze den JS Code").**
+- #### [4] **[Benutze den JS Code](https://github.com/Boomtrexx/YouTubeFluent/blob/main/theme/script.js "Benutze den JS Code").**
 
 ## VORSCHAU:
 <img src="https://i.imgur.com/CEUr1Bi.png" />
